@@ -1,4 +1,4 @@
-/*//Chiedere al utente la sua mail.
+//Chiedere al utente la sua mail.
 var mail = prompt('Inserisci il tuo indirizzo email.');
 document.getElementById('email').innerHTML = "Indirizzo email inserito: " + mail;
 //Lista di chi può accedere. 
@@ -18,7 +18,7 @@ for (var i = 0; i < lista.length; i++){
     } else {
         document.getElementById('answer').innerHTML = "Questo indirizzo non è presente nella lista. l'accesso è negato."
     }
-*/
+
 
 
     //Gioco dei dadi.
