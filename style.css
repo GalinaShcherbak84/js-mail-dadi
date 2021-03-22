@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: lightgray;
+    color: red;
+    font-family: sans-serif;
+}
+h2,
+p{
+    color:black;
+}
+#scontiPensionati,
+#scontiMinorenni,
+#nienteSconto{
+    color:grey;
+}
